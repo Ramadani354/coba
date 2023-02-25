@@ -6,3 +6,4 @@
 
 3.  Nama = Alexander Minic
     Progdi = Ilmu Komunikasi
+
